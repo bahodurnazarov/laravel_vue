@@ -1,0 +1,14 @@
+1.create laravel project
+2.connect Database (mysql or sqlite)
+if its sqlite create file ("database.sql") and connect it with the path in left corner "Database"
+3. Run 'php artisan migration'
+4.Run 'composer require laravel/ui'
+5. Run 'php artisan ui:auth'
+6. Run 'php artisan ui bootstrap'
+7.Run 'php artisan ui vue'
+8. Run 'npm install && npm run dev'
+9. Run 'npm run dev' it shows error but its ok
+10. Run 'npm update vue-loader'
+11. Run 'npm run dev'
+12. Run 'npm watch'
+
